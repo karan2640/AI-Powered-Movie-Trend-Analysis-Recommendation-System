@@ -1,0 +1,9 @@
+cineMate-movie-recommender/
+│── app.py                  # Main Streamlit app
+│── movie_dict.pkl          # Pickle file with movie dataset
+│── similarity.pkl          # Pickle file with similarity matrix
+│── requirements.txt        # Dependencies
+│── README.md               # Project description
+│── report.pdf              # Your project report (optional)
+│── .gitignore              # To ignore unnecessary files
+│── images/                 # Store screenshots, posters, etc.
